@@ -1,25 +1,19 @@
-.App {
+.App{
 	display: flex;
 
 	button {
 		font-weight: bold;
 	}
 }
-.center {
+.center{
 	color: #1976d2 ;
 	background-color: white;
 	font-weight: bolder;
 }
 
-.toolbar {
+.toolbar{
 	background-color: #1976d2;
 	color: white;
 	height: 100vh;
 }
 
-.component {
-	display: flex;
-  align-items: center;
-	flex-direction: column;
-  gap: 10;
-}
